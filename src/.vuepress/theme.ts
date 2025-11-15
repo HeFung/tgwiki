@@ -4,19 +4,19 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://wiki.tgnav.org",
+  hostname: "https://hefung.github.io/tgwiki",
   author: {
     name: "TGwiki",
   },
   logo: "/assets/icon/logo.svg",
   logoDark: "/assets/icon/logo2.svg",
-  repo: "tgnav/tgwiki",
+  repo: "hefung/tgwiki",
   docsDir: "src",
   copyright: false,
   breadcrumb: false,
   navbar,   // 导航栏
   sidebar,  // 侧边栏
-  footer: "Copyright © 2025 <a href='https://wiki.tgnav.org/' target='_blank'>TGwiki</a> by <a href='https://www.tgnav.org/' target='_blank'>TGNAV</a><br/><span id='busuanzi_container_site_pv'>本站总访问量：<span id='busuanzi_value_site_pv'></span>次</span>",  // 页脚
+  footer: "Copyright © 2025 <a href='https://hefung.github.io/tgwiki' target='_blank'>TGwiki</a> by <a href='https://www.tgnav.org/' target='_blank'>TGNAV</a><br/><span id='busuanzi_container_site_pv'>本站总访问量：<span id='busuanzi_value_site_pv'></span>次</span>",  // 页脚
   displayFooter: true,
   fullscreen: true,
   // 加密配置
