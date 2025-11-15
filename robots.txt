@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hefung.github.io/tgwiki/sitemap.xml
+Sitemap: https://hefung.github.io/tgwiki/hefung/sitemap.xml
 
 
 User-agent:*
